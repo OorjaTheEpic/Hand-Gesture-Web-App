@@ -1,0 +1,27 @@
+body
+{
+  color: rgb(157, 205, 250);
+  background-image: url("https://i.pinimg.com/originals/49/c6/b3/49c6b389761e21de0c89588dab1815f2.gif");
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dotted rgb(131, 107, 240);
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
